@@ -1,0 +1,2 @@
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1600,h_640,c_fill/RX_THUMBNAIL/IMAGES/VENDOR/2026/3/26/6aa58d42-6fc5-49f1-bbf8-be37d4b0f19f_589828.JPG";
+export const LOGO_URL = "https://imgs.search.brave.com/AcZemBBJyFap7FC-4BY1i4DLNxZCC2KI1A0j7wS-EI0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVzaWdubWFudGlj/LmNvbS9sb2dvLWlt/YWdlcy8xNTU4MS5w/bmc_Y29tcGFueT1D/b21wYW55JTIwTmFt/ZSZrZXl3b3JkPXJl/c3RhdXJhbnQmc2xv/Z2FuPSZ2ZXJpZnk9/MQ"
